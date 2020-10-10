@@ -1,0 +1,63 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/templates/modern-business)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+/*
+#tituloRojo{
+  font-size: 36px;
+  color:red;
+  font-family: 'Open Sans'
+}
+
+h1{
+  font-size: 36px;
+  color:red;
+  font-family: 'Open Sans'
+}
+.tituloRojo{
+  font-size: 36px;
+  color:red;
+  font-family: 'Open Sans'
+}*/
+.link-fime{
+  color:red
+}
+.aimeefont{
+  font-family: 'Sansita Swashed';
+  font-size: 20px;
+  color: tomato;
+}
+.dancingfont{
+  font-family: 'Dancing Script', cursive;
+  font-size: 22px;
+  color: tomato;
+}
+.btn-test{
+  background-color: crimson;
+  border: 2px solid #00CED1;
+  justify-content: center;
+  width: 110px; /* Para que no se rompa en dos líneas, y lo translade tal cual. */
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+.fondo{
+  background-color:blue
+}
